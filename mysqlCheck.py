@@ -5,7 +5,7 @@ face_detect = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 camera = cv2.VideoCapture(0)
 def connect(id,name):
     try:
-        conn= mysql.connector.connect(host = 'localhost',
+        conn= mysql.connector.connect(host = '127.0.0.1',
                                       database = 'faceDB',
                                       user = 'root',
                                       password='38LRh430')
@@ -13,7 +13,7 @@ def connect(id,name):
         cmd = "select * from user_t where id = "+str(id)
 
         values = str(id)+", \'"+str(name)+"'"
-        cmd = "insert into user_t values (" + values + ")"
+        cmd = "insert into user_t(id,name) values (" + values + ")"
         curr.execute(cmd)
         conn.commit()
     except Error as e :

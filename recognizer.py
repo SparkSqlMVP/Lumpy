@@ -11,7 +11,7 @@ def insertDb(id,name):
 
         cmd = 'select * from user_t WHERE id='+str(id)+";"
         print(cmd)
-        conn = mysql.connector.connect(host = 'localhost',
+        conn = mysql.connector.connect(host = '127.0.0.1',
                                           database = 'faceDB',
                                           user = 'root',
                                           password='38LRh430')
