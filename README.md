@@ -32,17 +32,34 @@ Numpy
 
 # (4) Outline
 
-This project consist of 3 parts, which are:
+This project consist of 4 parts, which are:
 
-1、Creating datasets (mysqlcheck.py)
+1、Create table
+
+   CREATE TABLE user_t (
+
+   id INT,
+
+   NAME VARCHAR(200),
+
+   user_id INT NOT NULL AUTO_INCREMENT,
+
+   ctime TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+
+   PRIMARY KEY (user_id)
+
+   )
+
+
+2、Creating datasets (mysqlcheck.py)
 
     Generate user faces images(20) and stored in mysql database;
     
-2、Train the model (trainer.py)
+3、Train the model (trainer.py)
 
     Generate "trainer.yml" file.
     
-3、Face Recognition (recognizer.py)
+4、Face Recognition (recognizer.py)
 
 
 
