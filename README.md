@@ -3,7 +3,9 @@ Face Recognition using Haar-Cascade Classifier, OpenCV, and Python
 
 # (2) Requirement
 Python 3.5
+
 OpenCV 3.1.0
+
 Numpy
 
 # (3) Tips
