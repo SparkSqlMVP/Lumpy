@@ -34,5 +34,5 @@ This project consist of 3 parts, which are:
 3、Lastly, run detector.py
 
 # (5) Reading materials
-   Face Detection using Haar Cascades, link: https://docs.opencv.org/trunk/d7/d8b/tutorial_py_face_detection.html
-   OpenCV Documentation, link: http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html
+Face Detection using Haar Cascades, link: https://docs.opencv.org/trunk/d7/d8b/tutorial_py_face_detection.html
+OpenCV Documentation, link: http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html
