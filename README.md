@@ -85,5 +85,5 @@ OpenCV Documentation, link: http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_
 
 # (5) video
 
-![Face Recognition](https://github.com/SparkSqlMVP/Lumpy/blob/master/face%20recognition.gif)
+![FaceRecognition](https://github.com/SparkSqlMVP/Lumpy/blob/master/face%20recognition.gif)
 
