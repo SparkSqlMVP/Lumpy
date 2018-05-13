@@ -87,4 +87,5 @@ OpenCV Documentation, link: http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_
 
 https://www.youtube.com/watch?v=OqHZmc59zZk&index=9&list=PLwf-FOF-JvAfvIwJc-htjZ2tuucf2cwDh&t=0s
 
+![image](https://github.com/zhengwenming/WMPlayer/blob/master/WMPlayer/Resource/WMPlayer.gif)
 
