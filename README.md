@@ -82,3 +82,9 @@ Face Detection using Haar Cascades, link: https://docs.opencv.org/trunk/d7/d8b/t
 
 OpenCV Documentation, link: http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html
 
+
+# (5) video
+
+https://www.youtube.com/watch?v=OqHZmc59zZk&index=9&list=PLwf-FOF-JvAfvIwJc-htjZ2tuucf2cwDh&t=0s
+
+
